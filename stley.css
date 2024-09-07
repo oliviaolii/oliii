@@ -1,0 +1,16 @@
+body{
+    background-color: #01ff01;
+    color: #ffffff;
+    font-family: "Bungee Tint", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0;
+body}
+
+button{
+    background-color: #0dff4a;
+    color: #ffffff;
+    font-family: "Bungee Tint", sans-serif;
+}
